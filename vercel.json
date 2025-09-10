@@ -20,11 +20,5 @@
         }
       ]
     }
-  ],
-  "env": {
-    "VITE_WALLET_CONNECT_PROJECT_ID": "@wallet_connect_project_id",
-    "VITE_CONTRACT_ADDRESS": "@contract_address",
-    "VITE_FHE_NETWORK_RPC": "@fhe_network_rpc",
-    "VITE_FHE_NETWORK_CHAIN_ID": "@fhe_network_chain_id"
-  }
+  ]
 }
